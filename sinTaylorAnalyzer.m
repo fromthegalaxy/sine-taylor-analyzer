@@ -54,7 +54,6 @@ end
 Kr = (abs(x) * abs(sin(x)-s)) / (abs(sin(x)) * abs(x - asin(s)));
 % Kr calculation see hand-written equations
 
-
 end
 
 
